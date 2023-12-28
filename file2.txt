@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is in master 
 
+=======
+this is in feature 
+>>>>>>> feature
