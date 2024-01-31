@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+hello<<<<<<< Updated upstream
 exp3 master | master
 =======
 in B branch .
