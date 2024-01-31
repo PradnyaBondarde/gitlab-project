@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 exp3 master | master
+=======
+in B branch .
+>>>>>>> Stashed changes
