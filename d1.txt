@@ -1,0 +1,1 @@
+This txt file is created to get master in git branch command
